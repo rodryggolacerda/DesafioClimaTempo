@@ -1,0 +1,146 @@
+﻿@model DesafioClimaTempo.Web.Models.PrevisaoClimaModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    var listaCidades = new List<SelectListItem>
+{
+        new SelectListItem {Text = "Selecione", Value = "0"}
+    };
+
+    if (Model != null)
+    {
+        foreach (var item in Model.GetCidades)
+        {
+            var cidade = new List<SelectListItem>
+            {
+                new SelectListItem {Text = item.Nome.ToString(), Value = item.Id.ToString()}
+            };
+
+            listaCidades.AddRange(cidade);
+        }
+    }
+
+}
+
+<div class="jumbotron">
+    <h1>Previsão do tempo</h1>
+    <p class="lead">Consulte hoje mesmo a previsão do tempo da sua cidade</p>
+</div>
+
+<div class="row">
+    <div class="form-group">
+        <div class="col-md-6">
+            <div class="card text-white">
+                <div class="card-header bg-primary text-center" style="padding-top: 5px; padding-bottom: 5px;">Cidades mais quentes hoje</div>
+                <div class="card-body" style="margin-top: 10px;">
+                    @{
+                        if (Model != null)
+                        {
+                            foreach (var item in Model.GetCidadesMaisQuentes)
+                            {
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        @item.Cidade.Nome
+                                    </div>
+                                    <div class="col-md-3 text-right">
+                                        Min @item.TemperaturaMinima ºC
+                                    </div>
+                                    <div class="col-md-3 text-right">
+                                        Máx @item.TemperaturaMaxima ºC
+                                    </div>
+
+                                </div>
+                            }
+
+                        }
+
+
+                    }
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card text-white">
+                <div class="card-header  bg-primary text-center" style="padding-top: 5px; padding-bottom: 5px;">Cidades mais frias hoje</div>
+                <div class="card-body" style="margin-top: 10px;">
+                    @{
+                        if (Model != null)
+                        {
+                            foreach (var item in Model.GetCidadesMaisFrias)
+                            {
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        @item.Cidade.Nome
+                                    </div>
+                                    <div class="col-md-3 text-right">
+                                        Min @item.TemperaturaMinima ºC
+                                    </div>
+                                    <div class="col-md-3 text-right">
+                                        Máx @item.TemperaturaMaxima ºC
+                                    </div>
+
+                                </div>
+                            }
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row" style="margin-top: 10px; padding-top:10px;">
+    <div class="col-md-6">
+
+    </div>
+    <div class="col-md-3 text-right">
+
+    </div>
+    <div class="col-md-3 ">
+        <div class="form-group">
+            <div>
+                <label style="padding-left: 10px;" class="control-label  col-form-label-sm">Cidades:</label>
+            </div>
+            <div>
+                @Html.DropDownListFor(m => m.Cidade, new SelectList(listaCidades, "Value", "Text"),
+        new { onchange = "update()", @class = "form-select mb-3  rounded-pill", @value = "0", style = "text-align: left; padding: 0 ; height: 32.6px; min-width: 100%;" }
+         )
+            </div>
+        </div>
+    </div>
+
+</div>
+
+ 
+<div id="semana"></div>
+  
+<script src="~/Content/jquery/dist/jquery.min.js"></script>
+
+<script type="text/javascript">
+    function update() {
+
+        var select = document.getElementById('Cidade');
+        var option = select.options[select.selectedIndex];
+        if (option.value > 0) {
+            buscarPrevisao(option.value);
+        }
+    }
+
+    function buscarPrevisao(id) {
+
+        var url = "/PrevisaoClima/BuscarClima?id=" + id;
+         
+        $.get(url, null, function (data) {
+            console.log(data);
+            $('#semana').html(data);
+        });
+        $('#semana').html(html);
+    }
+
+</script>

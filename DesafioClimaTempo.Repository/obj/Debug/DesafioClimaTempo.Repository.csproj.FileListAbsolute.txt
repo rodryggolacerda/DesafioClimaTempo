@@ -1,0 +1,820 @@
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll.config
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.pdb
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\netstandard.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.AppContext.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Concurrent.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.NonGeneric.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Specialized.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Console.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Data.Common.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Contracts.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Debug.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Process.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tools.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tracing.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Drawing.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Dynamic.Runtime.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Calendars.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Extensions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.IsolatedStorage.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Pipes.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Expressions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Parallel.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Queryable.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Http.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NameResolution.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NetworkInformation.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Ping.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Requests.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Security.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Sockets.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.Client.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ObjectModel.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Extensions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Reader.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.ResourceManager.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Writer.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Extensions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Handles.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Numerics.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Claims.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.SecureString.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.RegularExpressions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Overlapped.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Thread.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.ThreadPool.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Timer.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.ReaderWriter.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XDocument.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlDocument.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlSerializer.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Annotations.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.pdb
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll.config
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.AssemblyReference.cache
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CoreCompileInputs.cache
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CopyComplete
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.dll
+D:\R4\Entrevista\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll.config
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\netstandard.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.AppContext.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Specialized.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Console.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Data.Common.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Pipes.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Expressions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Parallel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Queryable.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Http.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NameResolution.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Ping.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Requests.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Security.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Sockets.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ObjectModel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Reader.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Writer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Handles.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Claims.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.SecureString.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Thread.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Timer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XDocument.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll.config
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CopyComplete
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csprojAssemblyReference.cache
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll.config
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.pdb
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\netstandard.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.AppContext.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Concurrent.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.NonGeneric.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Specialized.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Console.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Data.Common.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Contracts.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Debug.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Process.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tools.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tracing.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Drawing.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Dynamic.Runtime.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Calendars.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Extensions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.IsolatedStorage.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Pipes.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Expressions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Parallel.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Queryable.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Http.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NameResolution.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NetworkInformation.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Ping.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Requests.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Security.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Sockets.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.Client.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ObjectModel.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Extensions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Reader.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.ResourceManager.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Writer.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Extensions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Handles.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Numerics.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Claims.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.SecureString.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.RegularExpressions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Overlapped.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Thread.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.ThreadPool.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Timer.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.ReaderWriter.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XDocument.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlDocument.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlSerializer.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Annotations.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.pdb
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll.config
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.AssemblyReference.cache
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CoreCompileInputs.cache
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CopyComplete
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.dll
+D:\R4\Entrevista\Nova pasta\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll.config
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Repository.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\netstandard.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.AppContext.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Specialized.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Console.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Data.Common.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.Pipes.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Expressions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Parallel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Linq.Queryable.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Http.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NameResolution.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Ping.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Requests.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Security.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.Sockets.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Net.WebSockets.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ObjectModel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Reader.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Resources.Writer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Handles.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Claims.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.SecureString.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Thread.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Timer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XDocument.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\DesafioClimaTempo.Domain.dll.config
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Core.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Azure.Identity.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Buffers.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Collections.Immutable.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Memory.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Permissions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csprojAssemblyReference.cache
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.csproj.CopyComplete
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.dll
+C:\Users\rodry\OneDrive\Documentos\GitHub\DesafioClimaTempo\DesafioClimaTempo.Repository\obj\Debug\DesafioClimaTempo.Repository.pdb

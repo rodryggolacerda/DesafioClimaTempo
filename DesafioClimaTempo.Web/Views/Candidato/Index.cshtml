@@ -1,0 +1,253 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        margin-top: 20px;
+    }
+
+    .card-style1 {
+        box-shadow: 0px 0px 10px 0px rgb(89 75 128 / 9%);
+    }
+
+    .border-0 {
+        border: 0 !important;
+    }
+
+    .card {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: #fff;
+        background-clip: border-box;
+        border: 1px solid rgba(0,0,0,.125);
+        border-radius: 0.25rem;
+    }
+
+    section {
+        padding: 120px 0;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .mb-2-3, .my-2-3 {
+        margin-bottom: 2.3rem;
+    }
+
+    .section-title {
+        font-weight: 600;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        position: relative;
+        display: inline-block;
+    }
+
+    .text-primary {
+        color: #ceaa4d !important;
+    }
+
+    .text-secondary {
+        color: #15395A !important;
+    }
+
+    .font-weight-600 {
+        font-weight: 600;
+    }
+
+    .display-26 {
+        font-size: 1.3rem;
+    }
+
+    @@media screen and (min-width: 992px) {
+        .p-lg-7 {
+            padding: 4rem;
+        }
+    }
+
+    @@media screen and (min-width: 768px) {
+        .p-md-6 {
+            padding: 3.5rem;
+        }
+    }
+
+    @@media screen and (min-width: 576px) {
+        .p-sm-2-3 {
+            padding: 2.3rem;
+        }
+    }
+
+    .p-1-9 {
+        padding: 1.9rem;
+    }
+
+    .bg-secondary {
+        background: #15395A !important;
+    }
+
+    @@media screen and (min-width: 576px) {
+        .pe-sm-6, .px-sm-6 {
+            padding-right: 3.5rem;
+        }
+    }
+
+    @@media screen and (min-width: 576px) {
+        .ps-sm-6, .px-sm-6 {
+            padding-left: 3.5rem;
+        }
+    }
+
+    .pe-1-9, .px-1-9 {
+        padding-right: 1.9rem;
+    }
+
+    .ps-1-9, .px-1-9 {
+        padding-left: 1.9rem;
+    }
+
+    .pb-1-9, .py-1-9 {
+        padding-bottom: 1.9rem;
+    }
+
+    .pt-1-9, .py-1-9 {
+        padding-top: 1.9rem;
+    }
+
+    .mb-1-9, .my-1-9 {
+        margin-bottom: 1.9rem;
+    }
+
+    @@media (min-width: 992px) {
+        .d-lg-inline-block {
+            display: inline-block !important;
+        }
+    }
+
+    .rounded {
+        border-radius: 0.25rem !important;
+    }
+</style>
+
+<section class="bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mb-4 mb-sm-5">
+                <div class="card card-style1 border-0">
+                    <div class="card-body p-1-9 p-sm-2-3 p-md-6 p-lg-7">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 mb-4 mb-lg-0">
+                                <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="...">
+                            </div>
+                            <div class="col-lg-6 px-xl-10">
+                                <div class="bg-secondary d-lg-inline-block py-1-9 px-1-9 px-sm-6 mb-1-9 rounded">
+                                    <h3 class="h2 text-white mb-0" style="color: white">Rodrigo Lacerda Rocha</h3>
+                                    <span class="text-primary">Developer</span>
+                                </div>
+                                <ul class="list-unstyled mb-1-9">
+                                    <li class="mb-2 mb-xl-3 display-28"><span class="display-26 text-secondary me-2 font-weight-600">Idade:</span> 35 anos</li>
+                                    <li class="mb-2 mb-xl-3 display-28"><span class="display-26 text-secondary me-2 font-weight-600">Experience:</span> 12 anos</li>
+                                    <li class="mb-2 mb-xl-3 display-28"><span class="display-26 text-secondary me-2 font-weight-600">E-mail:</span> rodrigorocha.proceda@gmail.com</li>
+
+                                    <li class="display-28"><span class="display-26 text-secondary me-2 font-weight-600">Telefone:</span><a href="tel:+5567998025610">(067) 9 9802-5610</a> </li>
+                                    <li class="display-28"><span class="display-26 text-secondary me-2 font-weight-600">Whatsapp:</span><a href="https://web.whatsapp.com/send?phone=5567998025610" target="_blank">(067) 9 9802-5610</a> </li>
+                                    <li class="display-28"><span class="display-26 text-secondary me-2 font-weight-600">Cidade:</span>Campo Grando </li>
+                                    <li class="display-28"><span class="display-26 text-secondary me-2 font-weight-600">Estado:</span>Mato Grosso do Sul </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-12 mb-4 mb-sm-5">
+                <div>
+                    <span class="section-title text-primary mb-3 mb-sm-4">Sobre</span>
+                    <p> Sou formado em Tecnologia em Redes de Computadores e tenho pós graduação em Projeto, Implantação e Administração de Redes de Computadores</p>
+                    <p>Trabalho com tecnologia desde 2006, mesmo sendo formado em Redes de Computadores, em 2010 eu tinha uma oportunidade na empresa que trabalho para fazer treinamento da Microsoft na área de desenvolvimento, e com isso no mesmo ano assumi um projeto Web feito em C# com WebForms utilizando .net framework 3.5.</p>
+                    <p>Desde então vinha atuando nas duas áreas, como suporte na área de Redes de Computadores e dando suporte para software de automação comercial, que abrangia desde instalação, configuração servidores, banco de dados, backup e restauração de banco de dados, entre outros. Já como desenvolvedor Web além de realizar manutenção e adicionar novos funcionalidades no sistema legado, sempre que tinha uma necessidade de desenvolver aplicativos web ou mobile eu era o responsável.</p>
+                    <p>Já em 2019 eu fui realocado 100 porcento como desenvolvedor web, desde então venho desenvolvendo aplicativos C#:</p>
+                    <ul>
+                        <li>Windows Forms Application</li>
+                        <li>ASP.NET Web Forms</li>
+                        <li>MVC</li>
+                        <li>Aplicativo Mobile com Xamarin Forms</li>
+                    </ul>
+                    <p>
+                        Experiência em desenvolvimento:
+                    </p>
+                    <ul>
+                        <li>C#</li>
+                        <li>.net core 3.1 e superior</li>
+                        <li>.net Framework 3.5 e superior</li>
+                    </ul>
+                    <p>Experiência com desenvolvimento front-end:</p>
+                    <ul>
+                        <li>ASP.NET Web Forms</li>
+                        <li>MVC </li>
+                        <li>Razor </li>
+                        <li>HTML </li>
+                        <li>CSS </li>
+                        <li>Javascript </li>
+                        <li>Xamarin Forms </li>
+                        <li>TypeScrypt</li>
+                        <li>jquery </li>
+                        <li>booststrap </li>
+                        <li>WordPress </li>
+                        <li>PHP </li>
+                    </ul>
+                    <p>
+                        Conhecimento em banco de dados:
+                    </p>
+                    <ul>
+                        <li>MySql</li>
+                        <li>Firebird</li>
+                        <li>Sql Server</li>
+                        <li>PostgreSQL</li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-lg-12 mb-4 mb-sm-5">
+                         
+
+                        <div>
+                            <span class="section-title text-primary mb-3 mb-sm-4">Formação acadêmica</span>
+                            <ul>
+                                <li>
+                                    <p>
+                                        <b>Universidade para o Desenvolvimento do Estado e da Região do Pantanal</b>
+                                    </p>
+                                    <p>Graduação em Tecnologia em Redes de Computadores, Redes de ComputadoresGraduação em Tecnologia em Redes de Computadores, Redes de Computadores</p>
+                                    <p>Período: 2004 - 2006</p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <b>Universidade para o Desenvolvimento do Estado e da Região do Pantanal</b>
+                                    </p>
+                                    <p>Pós Graduação em Projeto, Implantação e Administração de Redes de Computadores, Redes de ComputadoresPós Graduação em Projeto, Implantação e Administração de Redes de Computadores, Redes de Computadores</p>
+                                    <p>Período: 2007 - 2009</p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <b>Estácio</b>
+                                    </p>
+                                    <p>Bacharelado em Engenharia, Engenharia de Software</p>
+                                    <p>Período: 2021 - não concluido</p>
+                                </li>
+
+                            </ul>
+ 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
