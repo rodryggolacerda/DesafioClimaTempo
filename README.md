@@ -28,6 +28,9 @@ O projeto foi seguimentado em em:
 </li>
 
 <li>
+<p>Class Library Domain: <b>DesafioClimaTempo.Teste</b> - Projeto de Teste de Unidade (.NET Framework) </p>
+</li>
+<li>
 <p>Aplication Web ASP.NET: <b>DesafioClimaTempo.Web</b> - Contendo a pagina web da previsão do tempo e do candidato  </p>
 </li>
 </ul>
